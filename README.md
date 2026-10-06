@@ -1,22 +1,37 @@
-Hola, soy Jose Poma 👋
-Soy un Desarrollador Full Stack y estudiante de Ingeniería de Sistemas de El Alto, Bolivia. Me apasiona construir aplicaciones web escalables, diseñar bases de datos eficientes y explorar la inteligencia artificial.
+# ¡Hola, soy Jose Poma! 👋
 
-🛠️️ Tecnologías y Herramientas
-Frontend:
+Soy **Desarrollador Full Stack** y estudiante de **Ingeniería de Sistemas** de El Alto, Bolivia 🇧🇴.
 
-Backend & Bases de Datos: #React #JavaScript #Typescript #TailwindCSS
+Me apasiona construir aplicaciones web escalables, diseñar bases de datos eficientes y explorar el potencial de la inteligencia artificial.
 
-Infraestructura & Otros: #Node.js #Express #NestJS #APIs REST #JWT #Docker
+### 🛠️ Tecnologías y Herramientas
 
-🚀 Proyectos Destacados
-Sistema Web de Inventario y Proformas: Aplicación Full Stack (React, PostgreSQL, JWT) para la gestión operativa y control de stock de herramientas mecánicas.
+#### **Frontend** #React #JavaScript #TypeScript #TailwindCSS
 
-Okaprende: Plataforma de gestión académica con roles de usuario y arquitectura de reservas utilizando NestJS y React.
+#### **Backend & Bases de Datos** #Nodejs #Express #NestJS #APIs #JWT #Docker
 
-Asistencia con IA: Proyecto de reconocimiento facial offline utilizando TensorFlow y edge computing.
+#### **Infraestructura & Herramientas**
 
-🌱 Actualmente aprendiendo
-Adaptándome a nuevos ecosistemas empresariales como PHP y Laravel para ampliar mis herramientas de desarrollo Backend.
+### 🚀 Proyectos Destacados
 
-📫 Cómo contactarme
-Email: josepomavelasquez7@gmail.com
+* **Sistema Web de Inventario y Proformas**
+
+  > *Aplicación Full Stack (`React`, `PostgreSQL`, `JWT`) orientada a la gestión operativa y control de stock de herramientas mecánicas.*
+
+* **Okaprende**
+
+  > *Plataforma de gestión académica desarrollada con `NestJS` y `React`, implementando roles de usuario dinámicos y arquitectura para reservas.*
+
+* **Asistencia con IA**
+
+  > *Sistema de reconocimiento facial offline utilizando `TensorFlow` y arquitecturas de *edge computing*.*
+
+### 🌱 Actualmente aprendiendo
+
+* Adaptándome a nuevos ecosistemas empresariales como **PHP** y **Laravel** para expandir mis herramientas de desarrollo Backend.
+
+### 📫 ¿Cómo contactarme?
+
+* **Email:** [josepomavelasquez7@gmail.com](mailto:josepomavelasquez7@gmail.com)
+
+*Construyendo soluciones eficientes paso a paso 🚀*
