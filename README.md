@@ -4,9 +4,9 @@ Soy un Desarrollador Full Stack y estudiante de Ingeniería de Sistemas de El Al
 🛠️️ Tecnologías y Herramientas
 Frontend:
 
-Backend & Bases de Datos:
+Backend & Bases de Datos: #React #JavaScript #Typescript #TailwindCSS
 
-Infraestructura & Otros:
+Infraestructura & Otros: #Node.js #Express #NestJS #APIs REST #JWT #Docker
 
 🚀 Proyectos Destacados
 Sistema Web de Inventario y Proformas: Aplicación Full Stack (React, PostgreSQL, JWT) para la gestión operativa y control de stock de herramientas mecánicas.
@@ -19,6 +19,4 @@ Asistencia con IA: Proyecto de reconocimiento facial offline utilizando TensorFl
 Adaptándome a nuevos ecosistemas empresariales como PHP y Laravel para ampliar mis herramientas de desarrollo Backend.
 
 📫 Cómo contactarme
-LinkedIn: [Tu Enlace de LinkedIn Aquí]
-
 Email: josepomavelasquez7@gmail.com
